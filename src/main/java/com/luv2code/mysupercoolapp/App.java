@@ -12,6 +12,8 @@ public class App
         
         System.out.println( "Tomcat Deployment" );
         
+        System.out.println( "Tomcat Deployment" );
+        
         System.out.println( "Checking Jenkins Job is working or not" );
     }
 }
